@@ -5,7 +5,8 @@ Amazing shell, without a doubt my favorite!
 
                                                 %HOW TO USE%
 ---------------------------------------------------------------------------------------------------
-Prerequisitos:
+Prerequisites:
+
 $ A Unix-like operating system: macOS, Linux, BSD. On Windows: WSL2 is preferred, but cygwin or msys also mostly work.
 
 $ Zsh should be installed (v4.3.9 or more recent is fine but we prefer 5.0.8 and newer).
@@ -13,6 +14,8 @@ $ Zsh should be installed (v4.3.9 or more recent is fine but we prefer 5.0.8 and
 $ curl or wget should be installed
 
 $ git should be installed (recommended v2.4.11 or higher)
+
+---------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------
 $ sudo ./getOhMyZSH.sh
 
