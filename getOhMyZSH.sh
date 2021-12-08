@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Author: @federicocabreraf
 # Colours
 # Usage echo -e "${r} Example ${nc}"
 
