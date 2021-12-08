@@ -7,19 +7,8 @@ Amazing shell, without a doubt my favorite!
 ---------------------------------------------------------------------------------------------------------------
 $ sudo ./getOhMyZSH.sh
 
-![inicio](https://user-images.githubusercontent.com/69449278/145249630-eb8780c5-b771-4053-a1b3-035fdd9d4ce0.png)
-
-
-![inicio2](https://user-images.githubusercontent.com/69449278/145250176-8f648ca6-0c21-4c34-8c55-3dbd3f7a8ad6.png)
-
-
-![inicio3](https://user-images.githubusercontent.com/69449278/145250279-7e8d814a-7608-4041-aaaf-faad71382c68.png)
-
-
-![inicio4](https://user-images.githubusercontent.com/69449278/145250293-3959c179-a2db-465b-ab0a-51d1939279ba.png)
-
-
-![inicio5](https://user-images.githubusercontent.com/69449278/145250307-ed5fa38f-c412-4a43-8e1c-831f03446499.png)
-
-
-![inicio6](https://user-images.githubusercontent.com/69449278/145250314-2ac81cbd-fa7a-4e02-83c8-a8f42cfcc63e.png)
+![inicio](https://user-images.githubusercontent.com/69449278/145251436-66306b31-1dd5-4ccb-8b15-3517cb019357.png)
+![inicio3](https://user-images.githubusercontent.com/69449278/145251438-8a6c9f49-79b2-449d-9f2f-008f09314e62.png)
+![inicio4](https://user-images.githubusercontent.com/69449278/145251439-ae5ef555-0c0a-4f2c-88b8-931eb8cf866f.png)
+![inicio6](https://user-images.githubusercontent.com/69449278/145251446-874701fc-9c40-47a2-9403-36ff7d697017.png)
+![inicio5](https://user-images.githubusercontent.com/69449278/145251448-2adf0a0d-6752-410b-b9be-761376dcb398.png)
