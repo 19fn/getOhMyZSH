@@ -7,7 +7,7 @@ Amazing shell, without a doubt my favorite!
 ---------------------------------------------------------------------------------------------------
 Prerequisites:
 
-$ A Unix-like operating system: macOS, Linux, BSD. On Windows: WSL2 is preferred, but cygwin or msys also mostly work.
+$ A Unix-like operating system: macOS, Linux, BSD.
 
 $ Zsh should be installed (v4.3.9 or more recent is fine but we prefer 5.0.8 and newer).
 
