@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Author: @federicocabreraf
 # Script para instalar automaticamente OhMyZsh.
 # Pre-requisitos:
 # A Unix-like operating system: macOS, Linux, BSD.
